@@ -1,0 +1,2 @@
+(function(d,c){var a,b=function(){a||(a=window.setTimeout(function(){safari.self.width=document.body.scrollWidth;safari.self.height=document.body.offsetHeight;a=null},1))};(safari.application||safari.self).addEventListener("popover",function(){c.page.reload()});window.addEventListener("load",function(){b();var a=window.MutationObserver||window.WebKitMutationObserver;a?(new a(function(){b()})).observe(document,{childList:!0,attributes:!0,characterData:!0,subtree:!0}):document.addEventListener("DOMSubtreeModified",
+b)})})(window,window.rea);
