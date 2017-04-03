@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Jan Biniok</string>
 	<key>Builder Version</key>
-	<string>12603.1.12</string>
+	<string>12604.1.12</string>
 	<key>CFBundleDisplayName</key>
 	<string>Tampermonkey</string>
 	<key>CFBundleIdentifier</key>
