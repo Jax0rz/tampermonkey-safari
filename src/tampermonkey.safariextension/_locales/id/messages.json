@@ -993,26 +993,8 @@
   "Sync_Type": {
     "message": "Tipe"
   },
-  "Sync_Version": {
-    "message": "Version"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Unlike the 'Legacy' sync version this one synchronizes your scripts by reference to a unique ID that is created when a script is installed!\n\nThis means if you installed a script at multiple Tampermonkey instances by either another sync method or a normal script installation then this script will appear multiple times after the next sync iteration has finished.\n\nThe only way to recover is to manually remove each doubled script entry!\n\nDo you really want to continue?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Different sync versions are not compatible to each other!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Imported"
-  },
-  "Create_Exportable_Data": {
-    "message": "Create Exportable Data"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copy exportable TESLA data to clipboard. Ok?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
@@ -1104,11 +1086,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Do you really want to remove all scripts and reset all settings?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+  "Sync_Reset": {
+    "message": "Sync Reset"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Do you really want to remove all data from Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Do you really want to remove all remote data from Sync?"
   },
   "Enable_autoSave": {
     "message": "Menyimpan konten ketika Editor kehilangan fokus"
